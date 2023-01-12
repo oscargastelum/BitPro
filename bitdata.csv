@@ -1,0 +1,18 @@
+folder,favorite,type,name,notes,fields,reprompt,login_uri,login_username,login_password,login_totp
+Personal,True,Website,Facebook,Personal profile page,"email, birthday",False,https://www.facebook.com,johndoe@gmail.com,mypassword123,1234
+Work,False,Email,Gmail,Work email account,"email, password",True,https://www.gmail.com,johndoe@company.com,companypassword,5678
+Shopping,True,Website,Amazon,Online shopping,"email, credit card",False,https://www.amazon.com,johndoe@gmail.com,shoppingpassword,9101
+Banking,False,Website,Chase,Banking account,"username, password",True,https://www.chase.com,johndoe,mybankingpassword,1121
+Travel,True,Website,Expedia,Booking travel,"email, credit card",False,https://www.expedia.com,johndoe@gmail.com,travelpassword,1314
+Personal,False,Website,LinkedIn,Professional profile,"email, password",True,https://www.linkedin.com,johndoe@gmail.com,myprofessionalpassword,1516
+Work,True,Website,Slack,Company communication,"email, password",False,https://www.slack.com,johndoe@company.com,companyslackpassword,1718
+Shopping,False,Website,Ebay,Online shopping,"email, credit card",True,https://www.ebay.com,johndoe@gmail.com,shoppingpassword2,1920
+Banking,True,Website,Wells Fargo,Banking account,"username, password",False,https://www.wellsfargo.com,johndoe,mybankingpassword2,2122
+Travel,False,Website,Booking.com,Booking travel,"email, credit card",True,https://www.booking.com,johndoe@gmail.com,travelpassword2,2324
+Personal,True,Website,Twitter,Personal account,"email, password",False,https://www.twitter.com,johndoe@gmail.com,mytwitterpassword,2526
+Work,False,Email,Outlook,Work email account,"email, password",True,https://www.outlook.com,johndoe@company.com,companyoutlookpassword,2728
+Shopping,True,Website,Walmart,Online shopping,"email, credit card",False,https://www.walmart.com,johndoe@gmail.com,shoppingpassword3,2930
+Banking,False,Website,Capital One,Banking account,"username, password",True,https://www.capitalone.com,johndoe,mybankingpassword3,3132
+Travel,True,Website,Kayak,Booking travel,"email, credit card",False,https://www.kayak.com,johndoe@gmail.com,travelpassword3,3334
+Personal,False,Website,Instagram,Personal account,"email, password",True,https://www.instagram.com,johndoe@gmail.com,myinstagrampassword,3536
+Work,True,Website,Asana,Task management,"email, password",False,https://www.asana.com,johnd
