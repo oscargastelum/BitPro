@@ -1,9 +1,29 @@
 # BitPro
-Welcome to BitPro, a Bitwarden password management tool. This tool allows you to generate reports on reused and weak passwords as well as make changes to your password settings.
+BitPro is a program written in Python that addresses common problems encountered when managing passwords and other sensitive information in Bitwarden. With BitPro, you can take control of your password vault and ensure that your accounts remain secure.
+
+### Duplicate Remover
+
+One problem that can arise when managing multiple data files is the presence of duplicates in your vault. These duplicates can lead to confusion and can put your security at risk. BitPro allows you to easily remove all duplicates from your vault, ensuring that your data is clean, organized, and most importantly, secure.
+
+### Weak Passwords
+Another common problem is that it can be difficult to identify and fix weak passwords in your vault. Weak passwords are often easily guessed or cracked by attackers, putting your accounts at risk. BitPro allows you to search your vault for weak passwords and even configure what you consider a weak password given various characteristics. It then allows you to either save and print the report or update the password on the account with the found weak password.
+
+### Reused Passwords
+Reusing passwords across multiple accounts is another security concern. If an attacker obtains the password for one account, they can potentially gain access to all other accounts that use the same password. BitPro allows you to search your vault for accounts that use the same password, and generate and print the report to a .txt file. This feature helps you to easily identify any reused passwords and take steps to strengthen your security by assigning unique passwords.
+
+Overall, BitPro is an efficient and user-friendly tool that helps you keep your password vault organized and secure. By using BitPro, you can take proactive steps to secure your accounts and protect your sensitive information from potential attackers.
+
+#
+
+**DISCLAIMER**: While BitPro can help you identify potential security risks and improve the security of your accounts, it is ultimately the responsibility of the user to secure their accounts and protect their sensitive information. BitPro is a tool to aid in this process, but it does not guarantee the security of your accounts. Be sure to always use strong, unique passwords and follow best practices for securing your accounts to ensure the protection of your sensitive information.
+
+#
+
+
 
 ![image](https://user-images.githubusercontent.com/93061440/211958945-1404d00a-c4d9-49e3-b59f-8602b7e14c9a.png)
 
-TOOLS AND REPORTS
+**TOOLS AND REPORTS**
 
 The following options are available under the "TOOLS AND REPORTS" section of the menu:
 
@@ -25,7 +45,7 @@ Save as New File - This option allows you to save the current password list as a
 
 Quit Program - This option allows you to exit the program.
 
-SETTINGS
+**SETTINGS**
 
 ![image](https://user-images.githubusercontent.com/93061440/211959032-e384092b-81b6-459e-a85d-054d6daf7695.png)
 
@@ -34,4 +54,6 @@ The following options are available under the "SETTINGS" section of the menu:
 Set Weak Password Settings - This option allows you to set the requirements for what constitutes a weak password. This can include things like minimum length, the use of special characters, and required character types (e.g. numbers, uppercase letters, etc.).
 Note : Make sure you save the changes made to your password list before quitting the program to ensure the changes are not lost.
 
-Please let us know if you have any questions or issues with the tool.
+#
+
+*Please let us know if you have any questions or issues with the tool.*
