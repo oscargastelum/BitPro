@@ -1,6 +1,6 @@
 #########################################################################
 #
-# Program : BitwPro
+# Program : BitPro
 #  
 # Created : 01/04/2023
 #   
@@ -8,6 +8,46 @@
 #  
 # ########################################################################  
 #  Program description/ purpose : 
+#
+#   BitPro is a Python-based program that helps users manage their password 
+#   vault in Bitwarden. It addresses common issues such as duplicate entries 
+#   and weak or reused passwords. With BitPro, users can have greater control
+#   over their password vault and take steps to ensure the security of their 
+#   sensitive information.
+#
+#   The program offers the following menu options:
+#
+#   1. Reused Passwords: Allows the user to search their password vault for 
+#   accounts that use the same password.
+#   2. Save Reused Password Report: Allows the user to save a report of the 
+#   accounts found in the Reused Passwords search to a .txt file.
+#   3. Weak Passwords: Allows the user to search their password vault for weak 
+#   passwords and configure what the user considers a weak password.
+#   4. Save Weak Password Report: Allows the user to save a report of the accounts 
+#   found in the Weak Passwords search to a .txt file.
+#   5. Remove Duplicates: Allows the user to remove any duplicate entries from 
+#   their password vault.
+#   6. Save File: Allows the user to save any changes made to the password vault.
+#   7. Save as New File: Allows the user to save a copy of the password vault to 
+#   a new file.
+#   8. Quit Program: Exits the program.
+#   SETTINGS
+#   9. Set Weak Password Settings: Allows the user to configure their settings 
+#   for identifying weak passwords by modifying the requirement of the password on:
+#       1. Length: The number of character the password should have.
+#       2. A-Z (uppercase): whether the password require uppercase characters or not.
+#       3. a-z (lowercase): whether the password require lowercase characters or not.
+#       4. 0-9 (digits): whether the password require digits or not.
+#       5. !@#$%^&* (special characters): whether the password require special characters or not.
+#       6. Minimum number of numbers: the number of digits the password should have.
+#       7. Minimum number of special characters: the number of special characters the password should have.
+#       8. Avoid ambiguous characters: whether the password should avoid ambiguous characters or not.
+#       9. Done: This option confirms the new settings and applies it.
+#
+#   With these menu options, users can easily search for and fix any security 
+#   risks in their password vault, as well as manage and organize their data 
+#   for greater control and security.
+#
 #
 #--------------------------- Change History ------------------------------
 # Programmer : 
