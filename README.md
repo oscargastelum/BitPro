@@ -56,4 +56,4 @@ Note : Make sure you save the changes made to your password list before quitting
 
 #
 
-*Please let us know if you have any questions or issues with the tool.*
+*Please let me know if you have any questions or issues with the tool.*
